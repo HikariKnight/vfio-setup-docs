@@ -493,7 +493,7 @@ This is a good alternative to LookingGlass alone or to use in along with Looking
 
 1.  If you are using this with LookingGlass client, you would want to disable the spice client and be able to see the host cursor above the LookingGlass window by using the -s and -M parameters!
 
-Note: This solution also works great with [*Synergy*](http://symless.com) if you have a license for it, personally I use Synergy1 as a server on the Windows VM and as a client on the Linux host so that it is only active when the keyboard and mouse are connected directly to the VM, this is due to keyboard layout issues when running Synergy as a server on Linux and due to it not working great in some games on the client side.
+Note: This solution also works great with [*Barrier*](https://github.com/debauchee/barrier) or [*Synergy*](http://symless.com) if you have a license for it, personally I use Synergy1/Barrier as a server on the Windows VM and as a client on the Linux host so that it is only active when the keyboard and mouse are connected directly to the VM, this is due to keyboard layout issues when running Synergy as a server on Linux and due to it not working great in some games on the client side.
 
 <span id="anchor-21"></span>Sound through headphones/speakers or with LookingGlass
 
